@@ -3,7 +3,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Meu Perfil</title>
+    <title>lyah was here!</title>
     <!-- O Discord vai ler a linha abaixo para te dar o selo -->
     <meta name="discord-verification" content="COLE_AQUI_O_SEU_CODIGO_DO_DISCORD">
 </head>
